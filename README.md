@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning English coding...
 - 💞️ I’m looking to collaborate on VS code
 - 📫 How to reach me cr3yarts@gmail.com
-- 😄 Pronouns: Cry,mat
+- 😄 Pronouns: he
 
 <!---
 Cr3yarts/Cr3yarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
